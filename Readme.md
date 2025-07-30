@@ -49,6 +49,7 @@ Shows in-depth job requirements with an "Apply" and "Save" feature.
 🔹 User Profile
 Contains image, personal info, resume link, and saved jobs.
 
+![alt text](<Screenshot 2024-09-17 213503.png>) ![alt text](<Screenshot 2024-09-17 213514.png>) ![alt text](<Screenshot 2024-09-17 214332.png>) ![alt text](<Screenshot 2024-09-17 214358.png>) ![alt text](<Screenshot 2024-09-17 214419.png>) ![alt text](<Screenshot 2024-09-18 171057.png>) ![alt text](<Screenshot 2024-09-18 171156.png>) ![alt text](<Screenshot 2024-09-17 192451.png>) ![alt text](<Screenshot 2024-09-17 212151.png>) ![alt text](<Screenshot 2024-09-17 212210.png>) ![alt text](<Screenshot 2024-09-17 212555.png>) ![alt text](<Screenshot 2024-09-17 212759.png>) ![alt text](<Screenshot 2024-09-17 213356.png>)
 
 🧪 Run Locally
 ⚙️ Backend
@@ -63,7 +64,6 @@ cd client
 npm install
 npm run dev
 
-![alt text](<Screenshot 2024-09-17 213514.png>) ![alt text](<Screenshot 2024-09-17 214332.png>) ![alt text](<Screenshot 2024-09-17 214358.png>) ![alt text](<Screenshot 2024-09-17 214419.png>) ![alt text](<Screenshot 2024-09-18 171057.png>) ![alt text](<Screenshot 2024-09-18 171156.png>) ![alt text](<Screenshot 2024-09-17 192451.png>) ![alt text](<Screenshot 2024-09-17 212151.png>) ![alt text](<Screenshot 2024-09-17 212210.png>) ![alt text](<Screenshot 2024-09-17 212555.png>) ![alt text](<Screenshot 2024-09-17 212759.png>) ![alt text](<Screenshot 2024-09-17 213356.png>) ![alt text](<Screenshot 2024-09-17 213503.png>)
 
 📄 Project Structure
 
